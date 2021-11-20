@@ -1,7 +1,0 @@
-echo "# DSC530" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aerler101-1/DSC530.git
-git push -u origin main
